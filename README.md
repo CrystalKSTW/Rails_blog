@@ -1,24 +1,4 @@
-# README
+# Ruby On Rails Beginner Blog Project From The Odin Project(Ruby on Rails)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+From Step 1 To 9.2 , The rest sections are not covered yet.
+- to familar with the Framework
